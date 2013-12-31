@@ -9,13 +9,13 @@ Python script for autoconfig SublimeCodeIntel (http://sublimecodeintel.github.io
 How use
 --------
 
-First install from pip
+First: install from pip
 
 ```text
 pip install config-sci
 ```
 
-Second execute the command console (In the project root path)
+Second: execute the command (In the project's root path)
 
 ```text
 $ config-sci
