@@ -12,7 +12,7 @@ How use
 First: install from pip
 
 ```text
-pip install config-sci
+pip install config_sci
 ```
 
 Second: execute the command (In the project's root path)

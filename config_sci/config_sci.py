@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import os
+import sys
 import site
 
-PYTHON_PATH = os.environ["_"]
+PYTHON_PATH = sys.executable
 PYTHON_EXTRAS_PATH = site._init_pathinfo()
 
 

@@ -19,7 +19,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='config-sci',
-    version='0.1.0',
+    version='0.1.1',
     description='Python script for autoconfig SublimeCodeIntel',
     long_description=readme + '\n\n' + history,
     author='Yohan Graterol',
