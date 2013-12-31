@@ -11,19 +11,19 @@ How use
 
 First install from pip
 
-```
+```text
 pip install config-sci
 ```
 
 Second execute the command console (In the project root path)
 
-```
+```text
 $ config-sci
 ```
 
 Check the file
 
-```
+```text
 $ cat .codeintel/config
 ```
 
