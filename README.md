@@ -12,13 +12,13 @@ How use
 First: install from pip
 
 ```text
-pip install config_sci
+pip install config-sci
 ```
 
 Second: execute the command (In the project's root path)
 
 ```text
-$ config-sci
+$ config_sci
 ```
 
 Check the file
