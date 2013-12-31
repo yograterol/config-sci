@@ -1,7 +1,0 @@
-
-{
-    'Python': {
-        'python': '/usr/bin/xfce4-session',
-        'pythonExtraPaths': ['/home/yograterol/.virtualenvs/vault_pass/bin', '/home/yograterol/.virtualenvs/vault_pass/lib64/python2.7', '/home/yograterol/.virtualenvs/vault_pass/lib64/python2.7/lib-dynload', '/usr/lib64/python2.7', '/home/yograterol/proyectos/config-sci', '/usr/lib/python2.7', '/home/yograterol/.virtualenvs/vault_pass/lib/python2.7/site-packages/config_sci-0.1.0-py2.7.egg', '/home/yograterol/.virtualenvs/vault_pass/lib/python2.7/site-packages']
-    }
-}

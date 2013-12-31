@@ -2,7 +2,7 @@
 
 # C extensions
 *.so
-
+.codeintel
 # Packages
 *.egg
 *.egg-info
